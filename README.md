@@ -12,4 +12,4 @@ Excel.exe > wscript.exe > cmd.exe
 
 Usage:
 
-Drop in location of choice, open excel doc and enable content
+Drop excel doc and vbs script in location of choice, open excel doc and enable content
