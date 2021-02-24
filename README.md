@@ -1,8 +1,8 @@
-# test_files
+#test_files#
 
 Repo of test files which can be used to trigger detections
 
-[vbs_macro]
+##vbs_macro##
 
 Microsoft Office Excel document with embedded macro to execute calc.exe using VBScript
 
@@ -14,7 +14,7 @@ Usage:
 
 Drop excel doc and vbs script in location of choice, open excel doc and enable content
 
-[jar_exe]
+##jar_exe##
 
 JAR file designed to execute calc.exe when opened
 
@@ -26,6 +26,6 @@ Usage:
 
 Drop in location of choice and execute using cmd: java -jar test.jar
 
-[powershell]
+##powershell##
 
 Clean PS script for testing remote PS downloads
