@@ -25,3 +25,7 @@ cmd.exe > java.exe > calc.exe
 Usage:
 
 Drop in location of choice and execute using cmd: java -jar test.jar
+
+# powershell
+
+Clean PS script for testing remote PS downloads
