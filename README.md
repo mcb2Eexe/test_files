@@ -29,3 +29,7 @@ Drop in location of choice and execute using cmd: java -jar test.jar
 ## powershell
 
 Clean PS script for testing remote PS downloads
+
+## hta
+
+Download file and execute
